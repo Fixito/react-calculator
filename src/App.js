@@ -35,7 +35,6 @@ function App() {
 
     if (isNaN(last2Chars[0]) && isNaN(last2Chars[1])) {
       const newFormula = formula.slice(0, formula.length - 2);
-      console.log(newFormula);
       setFormula(`${newFormula}${operator}`);
     } else if (operator === "-") {
       setFormula(`${result ? result : formula}${operator}`);
