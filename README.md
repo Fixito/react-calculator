@@ -1,3 +1,19 @@
+<h1 align="center">
+  JS Calculator
+</h1>
+
+<div align="center">
+  <h3>
+    <a href="https://react-calculator-tr.netlify.app/">
+      Demo
+    </a>
+  </h3>
+</div>
+
+## Overview
+
+![screenshot](/overview.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
